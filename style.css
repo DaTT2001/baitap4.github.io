@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.armchair {
+    background-color: #E0FFFF;
+    text-align: center;
+    width: 300px;
+    padding: 20px 0;
+}
+.stool-chair {
+    background-color: #E0FFFF;
+    display: flex;
+    width: 600px;
+}
+.lamp {
+    background-color: #E0FFFF;
+    width: 300px;
+    text-align: center;
+}
+.name-product {
+    font-weight: 700;
+    font-size: 24px;
+    padding: 20px;
+    padding-top: 30px;
+}
+.product-describe {
+    padding: 20px;
+    color: #708090;
+}
+.stool-chair-img {
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+.price {
+    color: red;
+}
+.buy-btn {
+    margin-left:20px;
+    padding: 10px;
+    border : 1px solid black;
+}
+.sales {
+    padding: 20px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
